@@ -14,40 +14,212 @@
 
 ## 🧭 Executive Snapshot
 
+<div align="center">
+
+### 🚀 Building Production-Grade AI Systems at Scale
+
+</div>
+
 <table>
 <tr>
-<td width="50%">
 
-### 👨‍💻 Who I Am
+<td width="33%" align="center">
 
-AI/ML Engineer with **4+ years of experience** designing and deploying enterprise AI solutions across banking, compliance, risk analytics, fraud detection, Generative AI, and full-stack product development.
+## 🧠 AI Engineering
 
-- 🏦 Experience with **Capital One** and **HCLTech**
-- 🤖 Specialized in **GenAI, RAG, AI Agents, LLMOps, and MLOps**
-- 💳 Built systems processing **12M+ financial transactions daily**
-- 📚 Developed enterprise RAG systems over **2M+ compliance documents**
-- 🚖 Founder and builder of **YOO RideShare Platform**
-- ☁️ Multi-cloud experience across **AWS, Azure, and GCP**
+**4+ Years Experience**
 
-</td>
-<td width="50%">
+Enterprise AI/ML Systems
 
-### 📍 Availability
+🤖 Generative AI
 
-| Item | Status |
-|---|---|
-| Location | Jersey City, New Jersey |
-| Work Authorization | F-1 OPT |
-| U.S. Work Status | Authorized to Work |
-| Availability | Open to Full-Time |
-| Work Mode | Hybrid / Remote / Onsite |
-| Relocation | Open |
+📚 RAG Systems
+
+🕸️ Agentic AI
+
+⚙️ MLOps
+
+☁️ Multi-Cloud AI
 
 </td>
+
+<td width="34%" align="center">
+
+## 📊 Production Impact
+
+**12M+**
+
+Financial Transactions Daily
+
+**2M+**
+
+Compliance Documents Indexed
+
+**<80ms**
+
+Real-Time Inference
+
+**99.95%**
+
+System Reliability
+
+</td>
+
+<td width="33%" align="center">
+
+## 🚖 Product Builder
+
+**Founder & Lead Engineer**
+
+YOO RideShare Platform
+
+📱 Mobile Applications
+
+🧩 Full-Stack Systems
+
+🌍 Real-Time Platforms
+
+🚀 Startup Builder
+
+</td>
+
 </tr>
 </table>
 
 ---
+
+## 🎯 Who I Am
+
+```text
+Tharun Kumar Nagipogu
+│
+├── AI / ML Engineer
+│
+├── Generative AI Engineer
+│   ├── RAG Systems
+│   ├── AI Agents
+│   ├── LLMOps
+│   └── Prompt Engineering
+│
+├── Machine Learning Engineer
+│   ├── Fraud Detection
+│   ├── Risk Analytics
+│   ├── NLP
+│   └── Real-Time Inference
+│
+├── MLOps Engineer
+│   ├── CI/CD
+│   ├── Monitoring
+│   ├── Model Registry
+│   └── Automated Retraining
+│
+├── Full-Stack Engineer
+│   ├── React Native
+│   ├── Node.js
+│   ├── PostgreSQL
+│   └── Distributed Systems
+│
+└── Founder
+    └── YOO RideShare Platform
+```
+
+---
+
+## 📍 Availability Matrix
+
+| Category | Status |
+|-----------|----------|
+| 📍 Location | Jersey City, New Jersey |
+| 🇺🇸 Work Authorization | Authorized to Work in USA |
+| 🎓 Visa Status | F-1 OPT |
+| 💼 Employment | Full-Time Opportunities |
+| 🌎 Work Mode | Remote / Hybrid / Onsite |
+| ✈️ Relocation | Open |
+| ⚡ Joining | Immediate / Negotiable |
+
+---
+
+## ⚡ Engineering Focus
+
+```text
+Current Focus Areas
+
+AI Infrastructure
+│
+├── Enterprise RAG
+│
+├── Agentic AI Systems
+│
+├── Production MLOps
+│
+├── Fraud Detection Platforms
+│
+├── AI Platform Engineering
+│
+├── Transportation Technology
+│
+└── Full-Stack AI Products
+```
+
+---
+
+## 📈 Career Journey
+
+```text
+JNTU Computer Science
+        │
+        ▼
+Research & AI Foundations
+        │
+        ▼
+HCL Technologies
+Machine Learning Engineer
+        │
+        ▼
+Capital One
+AI / ML Engineer
+        │
+        ▼
+Enterprise AI Systems
+        │
+        ▼
+Generative AI & RAG
+        │
+        ▼
+Agentic AI Systems
+        │
+        ▼
+Founder
+YOO RideShare Platform
+        │
+        ▼
+Building Production AI Products
+```
+
+---
+
+## 🏆 Enterprise Impact Dashboard
+
+| Area | Impact |
+|--------|---------|
+| 💳 Fraud Detection | 12M+ Transactions Daily |
+| 📚 Enterprise RAG | 2M+ Documents Indexed |
+| ⚡ Real-Time Systems | <80ms Inference |
+| ☁️ Cloud Engineering | AWS • Azure • GCP |
+| 🤖 Generative AI | Enterprise Deployment |
+| 🚖 Product Development | YOO RideShare |
+| 📈 MLOps | Automated Monitoring |
+| 🔒 Compliance | Explainable AI & Governance |
+
+---
+
+<div align="center">
+
+### 🚀 From Prototype → Production → Scale
+
+Building secure, scalable, and intelligent AI systems that create measurable business impact.
+
+</div>
 
 ## 💼 Open To Opportunities
 
