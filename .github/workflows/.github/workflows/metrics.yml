@@ -1,68 +1,19 @@
-```yml
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Generate advanced GitHub metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Tharunkumar0205
-          filename: github-metrics.svg
-
           template: classic
-          base: header, activity, community, repositories, metadata
-
-          config_timezone: America/New_York
-          config_display: large
-          config_padding: 0, 8 + 11%
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          plugin_lines: yes
-
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-
-          plugin_stars: yes
-          plugin_stars_limit: 4
-
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
-
-          plugin_repositories: yes
-          plugin_repositories_featured: Tharunkumar0205/credit-card-fraud-detection, Tharunkumar0205/yoorideshare.com
-
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
-
-          plugin_notable: yes
-          plugin_notable_from: organization
-```
+          base: header, activity, community, repositories
