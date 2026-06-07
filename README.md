@@ -1,126 +1,126 @@
-````md
+# <div align="center">🚀 Tharun Kumar Nagipogu</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=Tharun%20Kumar%20Nagipogu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20MLOps%20%7C%20Full-Stack%20AI&descSize=16&descAlignY=55" />
+### AI/ML Engineer | Generative AI | Agentic AI | RAG | MLOps | Full-Stack Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=1000&lines=Building+Production-Grade+AI+Systems;Enterprise+RAG+%26+Agentic+AI+Builder;Fraud+Detection+%7C+Risk+Intelligence+%7C+MLOps;Founder-Minded+Full-Stack+AI+Engineer;Building+YOO+RideShare+Platform)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=Tharun%20Kumar%20Nagipogu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20MLOps&descSize=16&descAlignY=55" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tharunkumar0205&style=for-the-badge&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Tharunkumar0205?style=for-the-badge&color=00D4FF)
-![GitHub Stars](https://img.shields.io/github/stars/Tharunkumar0205?style=for-the-badge&color=blue)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&color=00D4FF\&center=true\&vCenter=true\&width=1000\&lines=Building+Production-Grade+AI+Systems;Enterprise+RAG+%26+Agentic+AI+Engineer;Fraud+Detection+%7C+Risk+Intelligence;Full-Stack+AI+Product+Builder;Founder+of+YOO+RideShare)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tharunkumar0205\&style=for-the-badge\&color=blue)
 
 </div>
 
 ---
 
-## 🧭 Executive Snapshot
+# 📍 Location & Work Authorization
 
-<table>
-<tr>
-<td width="50%">
-
-### Who I Am
-
-AI/ML Engineer with **4+ years of experience** building enterprise AI systems, fraud detection platforms, RAG assistants, MLOps pipelines, and full-stack AI products.
-
-- 🏦 Experience with **Capital One** and **HCLTech**
-- 🤖 Focused on **GenAI, RAG, LLMs, AI Agents, MLOps**
-- 💳 Built systems processing **12M+ financial transactions/day**
-- 📚 Built RAG over **2M+ compliance and policy documents**
-- 🚖 Building **YOO RideShare**, a real-world mobility platform
-
-</td>
-<td width="50%">
-
-### Engineering Identity
-
-```txt
-AI Systems        ████████████████████ 95%
-GenAI / RAG       ███████████████████░ 90%
-MLOps             ██████████████████░░ 85%
-Backend Systems   █████████████████░░░ 80%
-Mobile / Product  ████████████████░░░░ 75%
-````
-
-</td>
-</tr>
-</table>
+* Jersey City, New Jersey
+* F-1 STEM OPT
+* Authorized to work in the United States
+* Open to Full-Time, Hybrid, Remote
+* Open to Relocation
 
 ---
 
-## 🚀 Vision
+# 💼 Open To Opportunities
 
-I build AI systems that move beyond demos into **real production impact**.
-
-My focus is at the intersection of:
-
-* Enterprise AI platforms
-* Agentic AI workflows
-* Real-time ML infrastructure
-* Fraud and risk intelligence
-* Full-stack product engineering
-* Scalable transportation technology
+* Senior AI Engineer
+* Machine Learning Engineer
+* Applied AI Engineer
+* Generative AI Engineer
+* MLOps Engineer
+* AI Platform Engineer
+* AI Solutions Architect
 
 ---
 
-## ⚡ Technology Command Center
+# 📊 AI Engineering Dashboard
 
-<div align="center">
+| Metric                       | Value                            |
+| ---------------------------- | -------------------------------- |
+| Experience                   | 4+ Years                         |
+| Daily Transactions Processed | 12M+                             |
+| Compliance Documents Indexed | 2M+                              |
+| Cloud Platforms              | AWS • Azure • GCP                |
+| AI Specialization            | GenAI • RAG • Agents             |
+| Core Domains                 | Fraud Detection • Risk Analytics |
+| Full Stack Products          | Mobile + Backend + AI            |
+| Current Venture              | YOO RideShare                    |
+
+---
+
+# 🚀 Executive Snapshot
+
+AI/ML Engineer with 4+ years of experience designing and deploying enterprise AI solutions across banking, compliance, risk analytics, fraud detection, Generative AI, and full-stack product development.
+
+### Highlights
+
+* 🏦 Experience with Capital One and HCLTech
+* 🤖 Specialized in GenAI, RAG, AI Agents, LLMOps, and MLOps
+* 💳 Built systems processing 12M+ financial transactions daily
+* 📚 Developed enterprise RAG systems over 2M+ compliance documents
+* 🚖 Founder and builder of YOO RideShare Platform
+* ☁️ Multi-cloud experience across AWS, Azure, and GCP
+
+---
+
+# 📈 Engineering Impact
+
+| Domain                 | Scale                      |
+| ---------------------- | -------------------------- |
+| Financial Transactions | 12M+/day                   |
+| Compliance Documents   | 2M+                        |
+| AI Infrastructure      | Enterprise Scale           |
+| Cloud Platforms        | AWS, Azure, GCP            |
+| Real-Time Systems      | Fraud Detection & Dispatch |
+| Mobile Applications    | YOO RideShare              |
+
+---
+
+# 🧠 Technology Heatmap
+
+```text
+LLMs               ██████████████ 95%
+RAG                ██████████████ 95%
+AI Agents          ██████████████ 95%
+MLOps              █████████████  90%
+Cloud              █████████████  90%
+Data Engineering   ███████████    85%
+System Design      ███████████    85%
+Full Stack         ███████████    85%
+```
+
+# ⚡ Technology Command Center
 
 ### AI / ML / GenAI
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge\&logo=tensorflow\&logoColor=FF6F00)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge\&logo=huggingface\&logoColor=FFD21E)
+Python • PyTorch • TensorFlow • Scikit-Learn • XGBoost • LightGBM • NLP • Deep Learning • OpenAI • Claude • LangChain • LangGraph • LlamaIndex • Pinecone
 
-### Cloud / MLOps / Data
+### Cloud / MLOps
 
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge\&logo=microsoftazure\&logoColor=0078D4)
-![GCP](https://img.shields.io/badge/GCP-0D1117?style=for-the-badge\&logo=googlecloud\&logoColor=4285F4)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge\&logo=kubernetes\&logoColor=326CE5)
-![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge)
-![Spark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge\&logo=apachespark\&logoColor=E25A1C)
+AWS • Azure • GCP • Docker • Kubernetes • MLflow • SageMaker • GitHub Actions • Kubeflow • CI/CD
 
-### Full Stack / Product Engineering
+### Full Stack Engineering
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge\&logo=redis\&logoColor=DC382D)
-
-</div>
+React Native • Expo • React • TypeScript • Node.js • Express • FastAPI • PostgreSQL • Redis • WebSockets
 
 ---
 
-## 🧠 AI Engineering Dashboard
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharunkumar0205&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tharunkumar0205&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tharunkumar0205&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunkumar0205&theme=github-dark-blue&hide_border=true" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tharunkumar0205&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tharunkumar0205&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tharunkumar0205&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tharunkumar0205&theme=github_dark&utcOffset=-4" />
 
 </div>
 
 ---
 
-## 📈 Contribution Intelligence
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -130,230 +130,184 @@ My focus is at the intersection of:
 
 ---
 
-## 🏆 Achievement System
+# 🏗️ Enterprise AI Architecture
 
-<div align="center">
+```mermaid
+graph TD
+    A[Users] --> B[API Gateway]
+    B --> C[Agent Orchestrator]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tharunkumar0205\&theme=darkhub\&no-frame=true\&no-bg=true\&row=1\&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+    C --> D[OpenAI]
+    C --> E[Claude]
+    C --> F[AWS Bedrock]
 
-</div>
+    D --> G[Vector Search]
+    E --> G
+    F --> G
+
+    G --> H[Pinecone]
+    H --> I[Enterprise Data]
+```
 
 ---
 
-## 🚖 Flagship Product: YOO RideShare Platform
+# 🏆 Career Timeline
 
-<table>
-<tr>
-<td width="55%">
+```text
+HCL Technologies
+     │
+     ▼
+Machine Learning Engineer
+     │
+     ▼
+Capital One
+     │
+     ▼
+AI / ML Engineer
+     │
+     ▼
+Generative AI & Agentic Systems
+     │
+     ▼
+Founder & Builder — YOO RideShare
+```
+
+---
+
+# 🚖 Flagship Product — YOO RideShare Platform
 
 ### Product Vision
 
-YOO is a next-generation rideshare and carpool platform designed to connect drivers and passengers through intelligent route matching, real-time tracking, safety-first ride experiences, and scalable backend architecture.
+YOO is a next-generation rideshare and carpool platform designed to connect drivers and passengers through intelligent route matching, real-time tracking, safety-first experiences, and scalable backend architecture.
 
-### Key Capabilities
+### Core Features
 
-* Driver and passenger modes
-* Scheduled rides
-* Smart carpool matching
-* Real-time driver tracking
-* Google Maps integration
-* Route optimization
-* Stripe payments
-* OTP authentication
-* Student verification
-* Women-only ride options
-* Push notifications
-* Ride history and analytics
+* Driver & Passenger Modes
+* Smart Carpool Matching
+* Scheduled Rides
+* Real-Time Driver Tracking
+* Google Maps Integration
+* Stripe Payments
+* OTP Authentication
+* Student Verification
+* Women-Only Ride Options
+* Push Notifications
+* Ride Analytics
 
-</td>
-<td width="45%">
+### Technology Stack
 
-### Architecture Map
-
-```txt
-Mobile App
-  │
-  ├── React Native / Expo
-  │
-API Layer
-  │
-  ├── Node.js / Express / tRPC
-  │
-Data Layer
-  │
-  ├── PostgreSQL / Drizzle ORM
-  ├── Redis
-  │
-External Systems
-  │
-  ├── Google Maps APIs
-  ├── Stripe
-  ├── Twilio OTP
-  │
-Real-Time Layer
-  │
-  ├── WebSockets
-  ├── Event-driven notifications
-```
-
-</td>
-</tr>
-</table>
-
-### YOO System Design Highlights
-
-| Layer     | Implementation                                                                     |
-| --------- | ---------------------------------------------------------------------------------- |
-| Matching  | Geo-spatial route matching, progressive radius expansion, driver-passenger ranking |
-| Real-Time | Live ride state updates, driver tracking, ride status transitions                  |
-| Safety    | Women-only options, student verification, OTP authentication                       |
-| Payments  | Stripe payment workflows                                                           |
-| Maps      | Google Maps, Places, Directions, Geocoding APIs                                    |
-| Backend   | Node.js, tRPC, PostgreSQL, Redis, Railway                                          |
+React Native • Expo • TypeScript • Node.js • Express • tRPC • PostgreSQL • Redis • Google Maps • Stripe • Twilio
 
 ---
 
-## 💳 Fraud Detection & Risk Intelligence
+# 💳 Fraud Detection & Risk Intelligence
 
-<table>
-<tr>
-<td width="50%">
+### Business Impact
 
-### Enterprise Impact
+* Processed 12M+ transactions/day
+* Reduced fraud losses by 31%
+* Reduced false positives by 27%
+* Sub-80ms inference latency
+* Automated drift detection
+* SHAP explainability for compliance
 
-Built fraud and risk scoring systems for high-volume transaction monitoring.
+### Architecture
 
-* Processed **12M+ transactions/day**
-* Reduced fraud losses by **31%**
-* Reduced false positives by **27%**
-* Achieved **sub-80ms p99 inference latency**
-* Applied SHAP explainability
-* Automated model drift detection
-
-</td>
-<td width="50%">
-
-### ML Pipeline
-
-```txt
-Raw Transactions
-      ↓
+```text
+Transactions
+     ↓
 Feature Engineering
-      ↓
+     ↓
 Feature Store
-      ↓
-XGBoost / LightGBM / DNN
-      ↓
-SageMaker Endpoint
-      ↓
-Risk Score API
-      ↓
-Monitoring + Drift Detection
+     ↓
+ML Models
+     ↓
+Real-Time Scoring
+     ↓
+Monitoring & Drift Detection
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 📚 Enterprise RAG & Agentic AI
+# 📚 Enterprise RAG & Agentic AI
 
-<table>
-<tr>
-<td width="50%">
+### Platform Capabilities
 
-### RAG Platform Capabilities
-
-* Semantic search over **2M+ documents**
+* Semantic search across 2M+ documents
 * Agentic multi-step workflows
-* Grounded citation validation
+* Citation validation
 * Hallucination detection
 * LLM guardrails
 * MCP integration
-* Compliance-focused response validation
+* Compliance-focused responses
 
-</td>
-<td width="50%">
+### Architecture
 
-### RAG Architecture
-
-```txt
+```text
 Documents
-   ↓
-Chunking + Embeddings
-   ↓
+    ↓
+Embeddings
+    ↓
 Vector Database
-   ↓
-Retriever + Reranker
-   ↓
+    ↓
+Retriever
+    ↓
 LLM / Agent
-   ↓
+    ↓
 Guardrails
-   ↓
+    ↓
 Grounded Response
 ```
 
-</td>
-</tr>
-</table>
+---
+
+# 🧩 Featured Engineering Portfolio
+
+| Project                     | Description                                |
+| --------------------------- | ------------------------------------------ |
+| 🚖 YOO RideShare Platform   | Full-stack rideshare and carpool ecosystem |
+| 💳 Fraud Detection Platform | Real-time risk scoring platform            |
+| 📚 Enterprise RAG Assistant | Compliance-focused AI assistant            |
+| 🤖 Agentic AI Workflows     | Multi-agent orchestration systems          |
+| ⚙️ MLOps Pipelines          | CI/CD, monitoring, retraining              |
+| 📈 Time Series Forecasting  | Forecasting and analytics systems          |
 
 ---
 
-## 🧩 Featured Engineering Portfolio
+# 🎯 Current Strategic Focus
 
-| Project                          | Problem Solved                                                                 | Stack                                                         |
-| -------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| 🚖 **YOO RideShare Platform**    | Full-stack rideshare and carpool platform with real-time dispatch and matching | React Native, Node.js, PostgreSQL, Redis, Google Maps, Stripe |
-| 💳 **Fraud Detection Platform**  | Real-time risk scoring for high-volume transactions                            | Python, XGBoost, LightGBM, SageMaker, Kafka, MLflow           |
-| 📚 **Enterprise RAG Assistant**  | Compliance research over large policy repositories                             | OpenAI, Claude, Bedrock, LangChain, Pinecone                  |
-| 🤖 **AI Agents / MCP Workflows** | Multi-step AI task orchestration with tools                                    | LangGraph, MCP, LLM Agents                                    |
-| ⚙️ **MLOps Pipelines**           | CI/CD, monitoring, drift detection, retraining                                 | Docker, Kubernetes, MLflow, GitHub Actions                    |
-| 📈 **Time Series Forecasting**   | Forecasting and trend analysis                                                 | ARIMA, Prophet, LSTM, Plotly                                  |
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Tharunkumar0205/Tharunkumar0205/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📊 Advanced Metrics Dashboard
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tharunkumar0205/Tharunkumar0205/main/github-metrics.svg" />
-
-</div>
-
----
-
-## 🎯 Current Strategic Focus
-
-```txt
+```text
 2026 Focus Areas
+
 ├── Agentic AI Systems
 ├── Enterprise RAG Platforms
-├── Real-Time ML Infrastructure
-├── Fraud Detection and Risk Intelligence
-├── Production MLOps Automation
-├── AI Transportation Systems
-└── Founder-Grade Product Engineering
+├── AI Infrastructure
+├── Production MLOps
+├── Fraud Detection
+├── Transportation Technology
+└── Full-Stack Product Engineering
 ```
 
 ---
 
-## 🤝 Connect With Me
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Tharunkumar0205/Tharunkumar0205/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-tharunapple.1432%40gmail.com-0D1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:tharunapple.1432@gmail.com)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0D1117?style=for-the-badge\&logo=vercel\&logoColor=white)](https://tharun-kumar-portfolio.vercel.app)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharun_Kumar_Nagipogu-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/tharun-kumar-nagipogu)
 
 </div>
@@ -364,13 +318,4 @@ Grounded Response
 
 ### Building AI systems that move from prototype to production 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=120&section=footer" />
-
 </div>
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tharunkumar0205/Tharunkumar0205/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-```
-
