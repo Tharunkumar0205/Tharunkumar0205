@@ -367,4 +367,10 @@ Grounded Response
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=120&section=footer" />
 
 </div>
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tharunkumar0205/Tharunkumar0205/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 ```
+
