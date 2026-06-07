@@ -17,7 +17,7 @@
 # 📍 Location & Work Authorization
 
 * Jersey City, New Jersey
-* F-1 STEM OPT
+* F-1 OPT
 * Authorized to work in the United States
 * Open to Full-Time, Hybrid, Remote
 * Open to Relocation
